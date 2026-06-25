@@ -40,7 +40,7 @@ No frameworks used. Only Vanilla JS as required in sprint.
 Just clone and open `index.html` in browser
 
 ```
-git clone https://github.com/harshmaurya-dev/prodesk-it-cashflow-dashboard.git
+git clone  https://github.com/harshmaurya-dev/prodesk-it-cashflow-dashboard
 ```
 
 Then open `index.html` in your browser. Done!
